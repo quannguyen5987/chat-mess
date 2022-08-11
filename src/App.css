@@ -167,6 +167,8 @@ section .form {
   background: var(--color-5);
 }
 .messages_container {
+  background-image: url("girl.png");
+  background-size: contain;
   position: relative;
   width: 100%;
 }
