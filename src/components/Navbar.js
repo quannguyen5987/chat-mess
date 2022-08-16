@@ -23,7 +23,7 @@ const Navbar = () => {
         <Link to="/">Messenger</Link>
       </h3>
       <div>
-          <h4>Bí mật nhé !!!</h4>
+          <h4>Bí mật nhé!</h4>
         </div>
       <div>
         {user ? (
